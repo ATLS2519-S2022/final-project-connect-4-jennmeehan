@@ -8,7 +8,7 @@
  */
 public class HumanPlayer implements Player
 {
-    private final String defaultName = "Some Human";
+    private final String defaultName = "Jane Doe";
     private String name;
 
     public HumanPlayer() { 
